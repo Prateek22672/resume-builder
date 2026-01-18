@@ -1,0 +1,11 @@
+******Frontend********
+
+cd ..
+cd frontend
+
+  (Or)
+
+cd ../frontend
+
+
+npm run dev
